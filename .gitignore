@@ -1,0 +1,13 @@
+# Secrets
+credentials.json
+*.env
+secret_key*
+
+# Outputs
+designed_posts/
+ai_designed_posts/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
